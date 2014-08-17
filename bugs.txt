@@ -1,4 +1,0 @@
-AWS EB
-http://stackoverflow.com/questions/23354411/awss-elastic-beanstalk-not-using-my-virtualenv-no-module-named-boto
-
-<module 'boto' from '/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/boto/__init__.pyc'>

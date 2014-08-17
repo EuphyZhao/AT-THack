@@ -1,1 +1,0 @@
-export PATH=$PATH:/Users/zhaoyufei/Dropbox/Programming/AWS-ElasticBeanstalk-CLI-2.6.3/eb/linux/python2.7/

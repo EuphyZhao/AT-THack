@@ -1,5 +1,3 @@
-from flask import Flask
-application = Flask(__name__) 
 import flask
 import os
 import time
@@ -14,9 +12,6 @@ from flask import abort
 from flask import session
 from flask import send_from_directory
 
-from werkzeug import secure_filename
-
-from flask_oauth import OAuth
  
 application = flask.Flask(__name__)
 
