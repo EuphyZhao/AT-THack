@@ -34,8 +34,6 @@ def page_not_found(error):
 def testTranscoder():
 	return "test"
 
-
-
 @application.route('/home')
 def home_page():
     return render_template('index.html')
